@@ -17,6 +17,7 @@ export default function Home() {
       </button>
       <LinkComponent link={"film"} title={"Фильм"} />
       <LinkComponent link={"new"} title={"Новое"} />
+      <LinkComponent link={"section"} title={"Раздел"} />
     </div>
   );
 }
